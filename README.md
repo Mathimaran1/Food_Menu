@@ -1,4 +1,4 @@
-# 🍔 Food Menu Application
+# Food Menu Application
 
 Welcome to the Food Menu Application! This is a simple, easy-to-understand full-stack project built with **React** for the frontend and **FastAPI** (Python) for the backend. 
 
@@ -6,7 +6,7 @@ It allows users to view a restaurant menu, filter items by category (Breakfast, 
 
 ---
 
-## 🛠️ Implementation Details
+## Implementation Details
 
 This project is built keeping beginners in mind. The code is stripped down to be as simple as possible.
 
@@ -28,7 +28,7 @@ This project is built keeping beginners in mind. The code is stripped down to be
 
 ---
 
-## 🚀 How to Run the Project
+## How to Run the Project
 
 Follow these simple commands to get the project running on your computer.
 
@@ -61,7 +61,7 @@ npm run dev
 
 ---
 
-## 🌟 Features
+## Features
 - **Clean UI:** A beautiful, flat-design grid layout with soft colors.
 - **Category Filtering:** Easily switch between Breakfast, Lunch, Dinner, Drinks, and Desserts.
 - **Smart Search:** Search for any item by its ID. If you search for an item while in the wrong tab, the app will gently let you know!
