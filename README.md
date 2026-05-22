@@ -32,12 +32,22 @@ This project is built keeping beginners in mind. The code is stripped down to be
 
 Follow these simple commands to get the project running on your computer.
 
-### 1. Start the Backend (Python/FastAPI)
+### 1. Clone the Repository
 
-Open a terminal, go to the `app` folder, and start the Uvicorn server:
+First, download the code to your local machine:
+
+```bash
+git clone https://github.com/Mathimaran1/Food_Menu.git
+cd Food_Menu
+```
+
+### 2. Start the Backend (Python/FastAPI)
+
+Open a terminal, go to the `app` folder, install the requirements, and start the Uvicorn server:
 
 ```bash
 cd app
+pip install -r requirements.txt
 uvicorn main:app --reload
 ```
 *(This will start the backend API on `http://localhost:8000`)*
