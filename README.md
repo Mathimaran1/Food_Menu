@@ -71,7 +71,4 @@ npm run dev
 
 ---
 
-## Features
-- **Clean UI:** A beautiful, flat-design grid layout with soft colors.
-- **Category Filtering:** Easily switch between Breakfast, Lunch, Dinner, Drinks, and Desserts.
-- **Smart Search:** Search for any item by its ID. If you search for an item while in the wrong tab, the app will gently let you know!
+
